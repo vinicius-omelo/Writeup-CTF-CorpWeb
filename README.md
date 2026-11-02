@@ -1,5 +1,3 @@
-# Writeup-CTF-CorpWeb
-
 # CorpWeb — Writeup
 
 ![Dificuldade](https://img.shields.io/badge/dificuldade-f%C3%A1cil%2Fm%C3%A9dia-yellow)
